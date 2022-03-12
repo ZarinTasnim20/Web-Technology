@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Zarin Tasnim",
+        "Email": "zarin@gamil.com",
+        "User_Name": "Zarin",
+        "Password": "A12345678@",
+        "Gender": "Female",
+        "Date_of_Birth": "2018-10-12",
+        "Image": "images\/images.png",
+        "Id": 1
+    },
+    {
+        "Name": "Zarin Tasnim132",
+        "Email": "zarin@gamil.com",
+        "User_Name": "Zarin123",
+        "Password": "Aas12345678@",
+        "Gender": "Female",
+        "Date_of_Birth": "2022-03-07",
+        "Image": "images\/x.png",
+        "Id": 2
+    },
+    {
+        "Name": "Zarin Tasnim",
+        "Email": "20-43365-1@student.aiub.edu",
+        "User_Name": "zarintasnim",
+        "Password": "Tasnim@2.1",
+        "Gender": "Female",
+        "Date_of_Birth": "2001-06-20",
+        "Image": "images\/images.png",
+        "Id": 3
+    },
+    {
+        "Name": "Zarin Tasnim",
+        "Email": "20-43365-1@student.aiub.edu",
+        "User_Name": "zarintasnim@",
+        "Password": "A12345678@",
+        "Gender": "Female",
+        "Date_of_Birth": "2001-06-10",
+        "Image": "images\/images.png",
+        "Id": 4
+    }
+]
